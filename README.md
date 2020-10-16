@@ -19,7 +19,11 @@
 
 ### 界面的布局
 
-![image-20201009153505311](./doc/imgs/image-20201009153505311.png)
+<img src="./doc/imgs/image-20201009153505311.png" alt="image-20201009153505311" style="zoom: 80%;" />
+
+<img src="./doc/main_ui.png" alt="image-20201009153505311" style="zoom:50%;" />
+
+
 
 ### 开发工具
 
@@ -30,3 +34,7 @@
 ### 配置管理工具
 
 + git
+
+### 工作进度
+
+见`doc/log.md`
