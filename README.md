@@ -1,9 +1,8 @@
-## Mask-Recognize口罩检测模型在Keras当中的实现
+## 口罩检测模型在Keras当中的实现
 ---
 
 ### 目录
 1. [所需环境 Environment](#所需环境)
-2. [文件下载 Download](#文件下载)
 3. [训练方法 How2train](#训练方法)
 4. [效果 Performance](#效果)
 
@@ -13,3 +12,6 @@ keras==2.1.5
 
 ### 训练方法
 在数据集准备好之后可以利用train.py文件训练
+
+### 效果
+
