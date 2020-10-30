@@ -15,3 +15,10 @@ keras==2.1.5
 
 ### 效果
 
++ 口罩检测效果展示
+
+  <video src="./imgs/口罩检测演示.mp4" />
+
++ MobileNet模型的可视化
+
+  ![MobileNet](./imgs/mobile.png)
